@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<properties>
-		<spring.version>4.0.2.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 		<hibernate.version>4.3.4.Final</hibernate.version>
 
 		<project.build.finalName>logback</project.build.finalName>
